@@ -1,3 +1,3 @@
 # My Data Science Project
 
-A starter data science project using Python and pytest.
+Starter data science project with EDA and ML examples.
