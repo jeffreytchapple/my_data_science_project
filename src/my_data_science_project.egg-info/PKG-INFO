@@ -1,29 +1,11 @@
 Metadata-Version: 2.4
-Name: my_data_science_project
+Name: my-data-science-project
 Version: 0.1.0
-Summary: A starter data science project with notebooks and tests
-Author-email: Your Name <you@example.com>
-Requires-Python: >=3.8
+Summary: Data science project template with src-layout, notebooks, tests, and VS Code config
+Author-email: Jeffrey Chapple <jeffreytchapple@gmail.com>
+Requires-Python: >=3.9
 Description-Content-Type: text/markdown
-Requires-Dist: numpy
-Requires-Dist: pandas
-Requires-Dist: matplotlib
-Requires-Dist: scikit-learn
-Requires-Dist: pytest
-Requires-Dist: jupyter
-Requires-Dist: python-dotenv
 
+# My Data Science Project
 
-
-## 📦 Editable Install for Development
-To make `src/` imports work everywhere (including Jupyter notebooks):
-
-```bash
-pip install -e .
-```
-
-Then in notebooks or scripts, you can just:
-
-```python
-from src.data_loader import load_data
-```
+Starter data science project with EDA, ML, notebooks, tests, and VS Code setup.
