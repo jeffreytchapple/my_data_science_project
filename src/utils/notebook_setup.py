@@ -1,5 +1,5 @@
 from pathlib import Path
-import sys, os
+import sys
 from dotenv import load_dotenv
 
 def ensure_project_on_path():

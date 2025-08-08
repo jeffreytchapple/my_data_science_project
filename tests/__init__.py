@@ -1,1 +1,1 @@
-# Makes 'tests' a Python package
+# package marker for tests
