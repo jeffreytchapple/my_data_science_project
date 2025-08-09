@@ -1,0 +1,6 @@
+id,age,income,name_Bob,name_Charlie,name_David,name_Eve,city_NY,city_SF
+1,25,50000,False,False,False,False,True,False
+2,30,60000,True,False,False,False,False,False
+3,35,70000,False,True,False,False,True,False
+4,40,80000,False,False,True,False,False,True
+5,22,45000,False,False,False,True,False,False
