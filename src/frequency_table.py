@@ -25,7 +25,7 @@ a version of this function for passing in multiple parameters
 def freq_table(data_set, index):
     frequency_table = {}
     
-    for row in data_set:
+    for row in data_set[1:]:  # Skip header row
         value = row[index]
         if value in frequency_table:
             frequency_table[value] += 1
